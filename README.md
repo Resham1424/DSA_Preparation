@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Resham1424/DSA_Preparation/tree/master/0643-maximum-average-subarray-i) |
 | [1301-number-of-paths-with-max-score](https://github.com/Resham1424/DSA_Preparation/tree/master/1301-number-of-paths-with-max-score) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Resham1424/DSA_Preparation/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Resham1424/DSA_Preparation/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Resham1424/DSA_Preparation/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Resham1424/DSA_Preparation/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
