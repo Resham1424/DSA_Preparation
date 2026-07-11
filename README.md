@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Resham1424/DSA_Preparation/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Resham1424/DSA_Preparation/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Resham1424/DSA_Preparation/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Resham1424/DSA_Preparation/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Resham1424/DSA_Preparation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
