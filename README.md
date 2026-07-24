@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Resham1424/DSA_Preparation/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Resham1424/DSA_Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Resham1424/DSA_Preparation/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/Resham1424/DSA_Preparation/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Resham1424/DSA_Preparation/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Resham1424/DSA_Preparation/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Resham1424/DSA_Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Resham1424/DSA_Preparation/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Resham1424/DSA_Preparation/tree/master/0344-reverse-string) |
